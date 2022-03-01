@@ -1,0 +1,3 @@
+opencv-python==4.5.5.62
+ffmpeg==1.4
+pytest==7.0.1
