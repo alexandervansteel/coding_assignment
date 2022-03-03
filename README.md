@@ -11,7 +11,8 @@ A simple python CLI program to split a video into segments based on user designa
 ## Installation
 
 1. Download project into desired directory.
-2. Navigate to parent directory and run the following command to install dependencies. 
+2. Navigate to parent directory and run the following command to install dependencies.<br>
+optional: Create virtual environment `python -m venv .env; source .env/bin/activate`<br>
 `pip install -r requirements.txt`
 3. To split a video provide the following arguments in the CLI specifying the source video, target directory for created segments, and the max length of each segment in seconds.
 
